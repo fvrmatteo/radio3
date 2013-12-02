@@ -11,6 +11,6 @@ Funzionamento:
 - Avviare Radio3Leaker ed inserire in ordine (nei form appositi) "Titolo" e "URL della pagina" (CTRL+V)
 - Premere il pulsante "Download"
 - Gli audiolibri verranno scaricati nella cartella corrente (la cartella da cui è stato avviato Radio3Leaker)
-- Per un ascolto ottimale si consiglia la conversione dei file "*.ra" in "*.mp3" con http://www.dvdvideosoft.com/it/free-dvd-video-software.htm
+- Per un ascolto ottimale si consiglia la conversione dei file "\*.ra" in "\*.mp3" con http://www.dvdvideosoft.com/it/free-dvd-video-software.htm
 
 P.s. nel caso il programma desse "Wrong link format" riprovare a copiare ed incollare l'URL; se continua a non funzionare vuol dire che il link è danneggiato.
